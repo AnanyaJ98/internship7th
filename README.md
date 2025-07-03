@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Fetch and Display User Data from Public API
 
 This is a simple web project that uses JavaScript's `fetch()` API to retrieve user data from a public API and display it on the web page. The project also includes error handling, reload functionality, and clean UI styling.
@@ -21,3 +22,6 @@ This is a simple web project that uses JavaScript's `fetch()` API to retrieve us
 ---
 
 
+=======
+# internship7th
+>>>>>>> c3c0749b32ccec0795db7ff751b4881c11b89b3a
